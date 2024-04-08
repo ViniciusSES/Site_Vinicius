@@ -9,4 +9,6 @@
     width: 10%;
 }
 
-.ca
+.cabeçalho_item{
+    display: inline-block;
+}
